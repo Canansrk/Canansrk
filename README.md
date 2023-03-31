@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Canan Sarıkaya</h1>
+     <h1 align="center">Hi 👋, I'm Canan Sarıkaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canansrk&label=Profile%20views&color=0e75b6&style=flat" alt="canansrk" /> </p>
 <img align="right" alt="Coding" width="400" src=https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif
-     
+
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **canansrk33@gmail.com**
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/canan sarıkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canan sarıkaya" height="30" width="40" /></a>
 <a href="https://instagram.com/canansrkyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canansrkyx" height="30" width="40" /></a>
+<a href="https://discord.gg/#7126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7126" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
