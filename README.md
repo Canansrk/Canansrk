@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Canan Sarıkaya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canansrk&label=Profile%20views&color=0e75b6&style=flat" alt="canansrk" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **canansrk33**
+- 📫 How to reach me **canansrk33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
